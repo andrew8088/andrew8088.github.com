@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meta | Tuts+ Premium Octopress Course]]></title>
+  <link href="http://andrew8088.github.io/categories/meta/atom.xml" rel="self"/>
+  <link href="http://andrew8088.github.io/"/>
+  <updated>2013-07-18T14:56:03-04:00</updated>
+  <id>http://andrew8088.github.io/</id>
+  <author>
+    <name><![CDATA[Andrew Burgess]]></name>
+    <email><![CDATA[andrew@yoursite.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code Plugins]]></title>
+    <link href="http://andrew8088.github.io/2013/07/code-plugins/"/>
+    <updated>2013-07-15T15:03:00-04:00</updated>
+    <id>http://andrew8088.github.io/2013/07/code-plugins</id>
+    <content type="html"><![CDATA[<p>Here are the plugins for dealing with code.</p>
+
+<!-- more -->
+
+
+<p>Markdown:</p>
+
+<pre><code>var framework = "Octopress";
+</code></pre>
+
+<p>Backtick:</p>
+
+<p><code>js Variable Assignment http://net.tutsplus.com Nettuts+
+var framework = "octopress";
+</code></p>
+
+<p>Codeblock:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Variable Assignment <a href="http://net.tutsplus.com">http://net.tutsplus.com</a> Nettuts+ </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">framework</span> <span class="o">=</span> <span class="o">&amp;</span><span class="nx">ldquo</span><span class="p">;</span><span class="nx">octopress</span><span class="o">&amp;</span><span class="nx">rdquo</span><span class="p">;;</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Include Code:</p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Fibonacci Sequence  (fib.js)</span> <a href='/downloads/code/fib.js'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">function</span> <span class="nx">fib</span><span class="p">(</span><span class="nx">n</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">if</span> <span class="p">(</span><span class="nx">n</span> <span class="o">&lt;=</span> <span class="mi">1</span><span class="p">)</span> <span class="p">{</span>
+</span><span class='line'>        <span class="k">return</span> <span class="mi">1</span><span class="p">;</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>    <span class="k">return</span> <span class="nx">fib</span><span class="p">(</span><span class="nx">n</span><span class="o">-</span><span class="mi">2</span><span class="p">)</span> <span class="o">+</span> <span class="nx">fib</span><span class="p">(</span><span class="nx">n</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+
+<p>Gist:</p>
+
+<p><div><script src='https://gist.github.com/4369904.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
+</p>
+
+<p>JSFiddle:</p>
+
+<p><iframe style="width: 100%; height: 300px" src="http://jsfiddle.net/fATe6/embedded/html,js/presentation/"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Plugins Part 1]]></title>
+    <link href="http://andrew8088.github.io/2013/07/plugins/"/>
+    <updated>2013-07-15T14:18:00-04:00</updated>
+    <id>http://andrew8088.github.io/2013/07/plugins</id>
+    <content type="html"><![CDATA[<p>Video:</p>
+
+<p><video width='854' height='480' preload='none' controls poster=''><source src='http://localhost:4000/assets/bunny.mov">http://localhost:4000/assets/bunny.mov</a>' ></video></p>
+
+<p>Images:</p>
+
+<p><img class="<a" src="href="http://localhost:4000/assets/backbone.png">http://localhost:4000/assets/backbone.png</a>"></p>
+
+<p>Blockquote:</p>
+
+<p><blockquote><p>Talent hits the target no one else can hit; genius hits the target no one else can see.</p><footer><strong>Arthur Schopenhauer</strong> <cite>His Book</cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Very First Blog post]]></title>
+    <link href="http://andrew8088.github.io/2013/07/my-very-first-blog-post/"/>
+    <updated>2013-07-13T10:51:00-04:00</updated>
+    <id>http://andrew8088.github.io/2013/07/my-very-first-blog-post</id>
+    <content type="html"><![CDATA[<p>This is my first post. I am using the Octopress blogging framework. It
+is actually very easy to use.</p>
+
+<p>For more great web development courses, check out <a href="http://tutsplus.com">Tuts+ Premium</a>.</p>
+
+<ul>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

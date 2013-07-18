@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: events | Tuts+ Premium Octopress Course]]></title>
+  <link href="http://andrew8088.github.io/categories/events/atom.xml" rel="self"/>
+  <link href="http://andrew8088.github.io/"/>
+  <updated>2013-07-18T14:56:03-04:00</updated>
+  <id>http://andrew8088.github.io/</id>
+  <author>
+    <name><![CDATA[Andrew Burgess]]></name>
+    <email><![CDATA[andrew@yoursite.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Very First Blog post]]></title>
+    <link href="http://andrew8088.github.io/2013/07/my-very-first-blog-post/"/>
+    <updated>2013-07-13T10:51:00-04:00</updated>
+    <id>http://andrew8088.github.io/2013/07/my-very-first-blog-post</id>
+    <content type="html"><![CDATA[<p>This is my first post. I am using the Octopress blogging framework. It
+is actually very easy to use.</p>
+
+<p>For more great web development courses, check out <a href="http://tutsplus.com">Tuts+ Premium</a>.</p>
+
+<ul>
+<li>one</li>
+<li>two</li>
+<li>three</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
